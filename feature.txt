@@ -1,3 +1,5 @@
 feature done
 
+conflict 1
+
 conflict 2
